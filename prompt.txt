@@ -1,1 +1,1 @@
-GiBBERISH-server:~/Videos/AnyDesk$ 
+GiBBERISH-server:~$ 
